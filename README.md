@@ -1,4 +1,6 @@
-pull latest contiki repo with thingsquare, contiki is in https://github.com/panyongfeng/contiki , check README.md for more information
+pull latest contiki repo with thingsquare, contiki is in
+https://github.com/panyongfeng/contiki , 
+check README.md for more information
 
 
 This is Thingsquare Mist, the Internet of Things software that lets
